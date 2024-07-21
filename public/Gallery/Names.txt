@@ -1,0 +1,67 @@
+Gradients
+
+1 Magenta Sky
+2 Blue Lagoon
+3 Tequila Sunrise
+4 French Martini
+
+
+Premium
+
+1 Blue Topaz
+2 Sapphire
+3 Midnight Gilt
+4 Cobalt Carat
+5 Emerald
+6 Black Jet
+7 Zircon
+
+Restaurant & Cafe
+
+1 Curry Canvas
+2 Majestic Morsel
+3 Tan Toast
+4 Majestic Manor
+5 Crust & Craft
+6 Sunburst Brews
+7 Grill Grove
+8 Mocha Muse
+9 Brew Haven
+
+Business
+
+1 Trend Trove
+2 Pinnacle Pulse
+3 Shop Spot
+4 Luxe
+5 Glam Grove
+6 Salon
+
+Profession
+
+1 Chic Canvas
+2 Vogue Vista
+3 Scientist
+4 Style Sculpt
+5 Designer
+6 Advocate
+7 Lawyer
+8 Indian Navy
+9 Indian Air Force
+10 Indian Army
+11 IPS
+12 Singham
+13 Sooryavanshi
+14 Corporate
+15 Doctor
+16 Architect
+17 Musician
+
+Customizable
+
+1 Influencer
+2 Corporate Cuisine
+3 Heart Memoji
+4 BTS Memoji
+5 Google Review
+
